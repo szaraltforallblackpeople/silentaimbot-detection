@@ -10,5 +10,7 @@ Cały skrypt jest gotowy do użycia po podpięciu systemu banów lecz jest co do
 
 3. W momencie w którym strzelicie z broni typu rpg w strone gracza zostanie nałożony falseban ( easy to fix ) 
 
+jeśli masz jakies pytania odnośnie skryptu pisz dm discord: realkriss
+albo wbij na mój martwy discord: https://discord.gg/8gU3uNZ3qf
 
 # CAŁY SYSTEM BYŁ PISANY W 15min OKOŁO 3 MIESIĄCE TEMU I MOŻE ZAWIERAĆ BŁĘDY
