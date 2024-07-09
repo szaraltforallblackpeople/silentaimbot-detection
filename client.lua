@@ -1,9 +1,10 @@
-AddEventHandler('entityDamaged', function(one, two, three, four)
+-- very sigma silent aim detection
+
+AddEventHandler('entityDamaged', function(one, two)
     local victim = one
     local shooter = two
 
     local shooterid = NetworkGetPlayerIndexFromPed(shooter)
-    local victimid = NetworkGetPlayerIndexFromPed(victim)
 
     local aimingentity, entity = GetEntityPlayerIsFreeAimingAt(shooterid)
 
@@ -16,7 +17,9 @@ AddEventHandler('entityDamaged', function(one, two, three, four)
     end
 end)
 
-AddEventHandler('CEventGunShot', function(one, two, three)
+-- pseudo magicbullet detection
+
+AddEventHandler('CEventGunShot', function()
     local x = GetEntityCoords(PlayerPedId()).x
     local y = GetEntityCoords(PlayerPedId()).y
     local z = GetEntityCoords(PlayerPedId()).z
