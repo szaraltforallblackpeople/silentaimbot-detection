@@ -2,6 +2,7 @@
 
 Jest to skrypt na detektowanie czegos pokroju silentaimbota oraz magicbulletów
 Cały skrypt jest gotowy do użycia po podpięciu systemu banów lecz jest co do niego pare zastrzeżeń 
+Zabiera - 0.00ms
 
 1. Skrypt nie był testowany na serwerze 10+ osób
 
