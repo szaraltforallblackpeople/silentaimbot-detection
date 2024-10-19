@@ -11,7 +11,7 @@ Zabiera - 0.00ms
 
 3. W momencie w którym strzelicie z broni typu rpg w strone gracza zostanie nałożony falseban ( easy to fix ) 
 
-jeśli masz jakies pytania odnośnie lub poprawki które chcesz dodać do skryptu pisz dm discord: realkriss
+jeśli masz jakies pytania odnośnie lub poprawki które chcesz dodać do skryptu pisz dm discord
 albo wbij na mój martwy discord: https://discord.gg/8gU3uNZ3qf
 
 # CAŁY SYSTEM BYŁ PISANY W 15min OKOŁO 3 MIESIĄCE TEMU I MOŻE ZAWIERAĆ BŁĘDY
